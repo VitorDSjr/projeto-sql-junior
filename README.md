@@ -1,4 +1,4 @@
-# Projeto SQL Júnior - Vitor Hugo
+# Projeto SQL para Análise de Dados (MySQL) – Nível Júnior
 
 Este repositório contém uma série de exercícios resolvidos em MySQL, focados em consultas para análise de dados.  
 
